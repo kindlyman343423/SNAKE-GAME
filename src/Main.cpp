@@ -1,10 +1,6 @@
-#include <iostream>
-#include <cstdlib>
-#include <ctime>
-#include "list.h"
-#include "highscores.hpp"
+#include "Main.hpp"
+#include "list.cpp"
 #include "highscores.cpp"
-using namespace std;
 int main()
 {
     // HighScores hs;

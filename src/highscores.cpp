@@ -1,3 +1,4 @@
+#include "highscores.hpp"
 //DOUBLE LINKED LIST
 //DATA
 struct data
