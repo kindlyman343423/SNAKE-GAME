@@ -22,6 +22,7 @@ int main()
     // hs.print();
     // hs.free();
     // exit(0);
+    
     //DATA STRUCTURE FOR STORING THE SCORES
     //ONE MORE LINK LIST
     /*DON'T CHANGE SIZE*/
